@@ -7,7 +7,7 @@
 	},
 	"name": "neptunesoftware-offlinedb",
 	"description": "OfflineDB for Large File Content (key/value)",
-	"ver": "24.04.28.0820",
+	"ver": "24.04.28.0823",
 	"enableCICD": true,
 	"excludeTemplateFiles": false,
 	"apps": [
