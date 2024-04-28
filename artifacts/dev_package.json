@@ -1,0 +1,52 @@
+{
+	"id": "c9ce8ae3-df85-4084-a5c5-8fff2fcd3746",
+	"createdAt": "2023-10-19T19:56:33.000Z",
+	"createdBy": "ole-andre.haugen@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/OleAndreHaugen/offlinedb"
+	},
+	"name": "neptunesoftware-offlinedb",
+	"description": "OfflineDB for Large File Content (key/value)",
+	"ver": "24.04.28.0820",
+	"enableCICD": true,
+	"excludeTemplateFiles": false,
+	"apps": [
+		{
+			"id": "8eed466c-f8e7-478b-bd77-2b85db236bb3",
+			"application": "neptune_offlinedb",
+			"title": "OfflineDB for Key/Value",
+			"description": "OfflineDB for Key/Value",
+			"package": {
+				"id": "c9ce8ae3-df85-4084-a5c5-8fff2fcd3746"
+			}
+		}
+	],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}
